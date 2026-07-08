@@ -323,13 +323,14 @@ The built-in AI Assistant can answer questions related to:
 
 ### Team OptiCrop
 
-| Name                     | Role      |
-| ------------------------ | --------- |
-| Sampatharao Mahesh Kumar | Team Lead |
-| Chikkam Renuka           | Member    |
-| Sasank Kumari Chintada   | Member    |
-| Sreeja Mutha             | Member    |
-| Dasari Renuka Bhargavi   | Member    |
+**Team Lead**
+
+- Mohammad Firdose
+
+**Members**
+
+- Yuvateja Lanke
+- Irshad Hussain
 
 ---
 
